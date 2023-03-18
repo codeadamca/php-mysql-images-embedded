@@ -16,7 +16,7 @@ There are multiple methods of retrieving data from a MySQL database using PHP. F
 
     Once you have phpMyAdmin open, click on the import tab and select the `links.sql` file from this repository. This will create a table called `links` and populate it with some sample data. 
 
-2. Create a new file and name it `links.php`. In that file place the following code:
+2. Create a new file and name it `index.php`. In that file place the following code:
 
     ```php
     <?php
