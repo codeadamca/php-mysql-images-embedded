@@ -173,6 +173,11 @@ There are multiple methods of retrieving data from a MySQL database using PHP. F
       DB_DATABASE,
       DB_PORT);
     ```
+    
+
+5. The finished result should look like this:
+
+    ![Final Result](https://raw.githubusercontent.com/codeadamca/php-mysql-images-embedded/main/_readme/screenshot-images.png)
 
 ***
 
