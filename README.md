@@ -146,10 +146,10 @@ There are multiple methods of retrieving data from a MySQL database using PHP. F
 4. Duplicate `.env.sample` and rename it to `.env`. Update it with your database credentials. You can probably remove the socket information in the `.env` file:
 
     ```php
-    DB_HOST=localhost
-    DB_DATABASE=php_mysql_images_embedded
-    DB_USERNAME=root
-    DB_PASSWORD=root
+    DB_HOST=<DB_HOST>
+    DB_DATABASE=<DB_DATABASE>
+    DB_USERNAME=<DB_USERNAME>
+    DB_PASSWORD=<DB_PASSWORD>
     DB_PORT=3306
     ```
     
