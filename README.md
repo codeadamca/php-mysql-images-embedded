@@ -179,14 +179,15 @@ There are multiple methods of retrieving data from a MySQL database using PHP. F
 
     ![Final Result](https://raw.githubusercontent.com/codeadamca/php-mysql-images-embedded/main/_readme/screenshot-images.png)
 
+> Full tutorial URL:  
+> https://codeadam.ca/learning/php-mysql-images.html
+
 ***
 
 ## Repo Resources
 
-* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
+* [Visual Studio Code](https://code.visualstudio.com/)
 * [Filezilla](https://filezilla-project.org/) (or any FTP program)
-
-Full tutorial URL: https://codeadam.ca/learning/php-mysql-images.html
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
